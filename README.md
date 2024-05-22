@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kessy-cyber
-- 👀 I’m interested in data science, software engineering and AI
-- 🌱 I’m currently learning data analytics and information systems management
+- 👀 I’m interested in Data Engineering and AI projects
 - 💞️ I’m looking to collaborate on mind blowing coding projects
 - 📫 Reach me via direct messages.
 
